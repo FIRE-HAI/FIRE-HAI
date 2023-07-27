@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FIRE-HAI
-- 👀 I’m interested in Pyrhon
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Hacking 
 - 💞️ I’m looking to collaborate on TG And GitHub 
 
